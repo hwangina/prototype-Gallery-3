@@ -7,7 +7,7 @@
 	gallery.style.left="0px";
 	var button=document.querySelector(".btn_group");
 	var buttonList=null;
-	var requestURL="../data/gallery.json";
+	var requestURL="data/gallery.json";
 	var request=new XMLHttpRequest();
 	var appendHtml="";
 
